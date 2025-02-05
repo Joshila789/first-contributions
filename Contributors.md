@@ -28,7 +28,7 @@
 - [Salma Fadl Azhttpszam](https://github.com/salmafadlabdulrahman)
 - [Cindy Muraya](https://github.com/CindyMuraya)
 - [Aditi Babu](https://github.com/aditib25)
-- [Joshila Jose]( https://github.com/Joshila789)
+- [Joshila Jose](https://github.com/Joshila789)
 
 - [Prakash Dass](https://github.com/rprakashdass)
 - [Lucas Souza](https://github.com/lucasrbsouza)
